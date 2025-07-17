@@ -1,0 +1,47 @@
+baseURL = "https://theophinetheodore.github.io"
+title = "theophine savio theodore."
+languageCode = 'en-us'
+theme = "typo"
+publishDir = "docs"
+
+[taxonomies]
+tag = 'tags'
+
+[params]
+description = "A Tech Blog"
+
+theme = 'light'
+colorPalette = 'default'
+hideHeader = false
+
+homeCollectionTitle = 'thoughts.'
+homeCollection = 'thoughts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = false
+listDateFormat = '2006 Jan 2'
+
+# Breadcrumbs
+[params.breadcrumbs]
+enabled = false
+showCurrentPage = false
+home = "Home"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/theophinetheodore"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "thoughts"
+url = "/thoughts"
+
+# Syntax highlight on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
