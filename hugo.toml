@@ -41,6 +41,10 @@ url = "/"
 name = "thoughts"
 url = "/thoughts"
 
+[[params.menu]]
+name = "gpg"
+url = "/gpg"
+
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
