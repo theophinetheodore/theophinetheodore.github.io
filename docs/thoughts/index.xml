@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>theophine savio theodore.</title><link>http://localhost:1313/thoughts/</link><description>Recent content on theophine savio theodore.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml"/><item><title>"batman begins" - thoughts.</title><link>http://localhost:1313/thoughts/batman-begins---thoughts./</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/batman-begins---thoughts./</guid><description>&lt;p>revisited &amp;ldquo;batman begins&amp;rdquo; after a years.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>theophine savio theodore.</title><link>http://localhost:1313/thoughts/</link><description>Recent content on theophine savio theodore.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 20 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml"/><item><title>my 2-min hyprland adventure.</title><link>http://localhost:1313/thoughts/my-2-min-hyprland-adventure./</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/my-2-min-hyprland-adventure./</guid><description>&lt;p>well, i have used hyprland and sway in the past for a few weeks, i guess.&lt;/p>
+&lt;p>but well, with DHH&amp;rsquo;s &lt;a href="https://omarchy.org/">omarchy&lt;/a> and pewdiepie&amp;rsquo;s hyprland setup,&lt;br>
+among with many other rices,&lt;br>
+let&amp;rsquo;s say it got me intrigued.&lt;/p>
+&lt;p>to be honest, i do not care much about the rest,&lt;br>
+but I remember seeing a hyprland rice with custom window decorations,&lt;br>
+and that was actually wonderful.&lt;br>
+i have tried to create a window decoration for KDE plasma,&lt;br>
+but it turned out to be quite inflexible.&lt;/p></description></item><item><title>TIL hardwrap.</title><link>http://localhost:1313/thoughts/til-hardwrap/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/til-hardwrap/</guid><description>&lt;p>i have this writing style of&lt;br>
+breaking stuff into lines.&lt;br>
+i don&amp;rsquo;t do paragraphs.&lt;br>
+i like it this way.&lt;/p>
+&lt;p>but that means i have to run this after i complete writing something:&lt;/p>
+&lt;pre tabindex="0">&lt;code class="language-vimscript" data-lang="vimscript">:%s:$: :g
+&lt;/code>&lt;/pre>&lt;p>that&amp;rsquo;s two spaces.&lt;br>
+basically what it does is, add two spaces to the end of every line.&lt;/p>
+&lt;p>i think markdown requires either two spaces,&lt;br>
+or a backslash,&lt;br>
+or a &lt;code>&amp;lt;br&amp;gt;&lt;/code>.&lt;/p>
+&lt;p>but today i came across this thing called &lt;strong>hardwraps&lt;/strong>.&lt;/p></description></item><item><title>"batman begins" - thoughts.</title><link>http://localhost:1313/thoughts/batman-begins---thoughts./</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/batman-begins---thoughts./</guid><description>&lt;p>revisited &amp;ldquo;batman begins&amp;rdquo; after a years.&lt;br>
 was a kid when i watched it.&lt;/p>
 &lt;p>even since the death of his parents,&lt;br>
 young bruce puts the blame on himself.&lt;br>

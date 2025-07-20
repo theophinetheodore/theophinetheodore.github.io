@@ -45,7 +45,9 @@ url = "/thoughts"
 name = "gpg"
 url = "/gpg"
 
-# Syntax highlight on code blocks
 [markup]
-[markup.highlight]
-style = 'algol'
+    [markup.highlight]
+    style = 'algol'
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+          hardWraps = true
