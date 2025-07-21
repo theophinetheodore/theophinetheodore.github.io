@@ -64,5 +64,14 @@ writing runit services by hand.
 ah no.
 i *really, really* don't wanna go there.
 
+hyprland's ram usage was like 1.2 gigs or something.
+at least in my pc.
+but if i were to add a panel, notification system,
+scripts and all that,
+i would end up with ram usage of KDE plasma,
+which is like 1.6 gigs at idle.
+and KDE plasma does so much more.
+so it's not worth an effort anyway.
+
 one could say KDE plasma made me lazy?,
 but i'd say KDE is as comfy as home.
