@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on theophine savio theodore.</title><link>http://localhost:1313/</link><description>Recent content in Home on theophine savio theodore.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>silence.</title><link>http://localhost:1313/thoughts/silence./</link><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/silence./</guid><description>&lt;p>i was at my brother&amp;rsquo;s place.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on theophine savio theodore.</title><link>http://localhost:1313/</link><description>Recent content in Home on theophine savio theodore.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 27 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>my wayland situation.</title><link>http://localhost:1313/thoughts/wayland/</link><pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/wayland/</guid><description>&lt;h2 class="heading" id="pros-of-wayland-for-me">
+ pros of wayland (for me)
+ &lt;a class="anchor" href="#pros-of-wayland-for-me">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>pinch-to-zoom works in chromium based browsers.&lt;/li>
+&lt;li>waydroid.
+&lt;ul>
+&lt;li>tried doing it in xorg with cage and weston, won&amp;rsquo;t recommend&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>touchpad gestures work.
+&lt;ul>
+&lt;li>i don&amp;rsquo;t have any use for it though&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>things are smoother and brighter? or am i imagining?&lt;/li>
+&lt;/ul>
+&lt;h2 class="heading" id="wayland-showstoppers-for-me-personally">
+ wayland &amp;ldquo;showstoppers&amp;rdquo; for me, personally
+ &lt;a class="anchor" href="#wayland-showstoppers-for-me-personally">#&lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>gtk4 applications freeze the whole KDE Plasma desktop for some reason?&lt;/li>
+&lt;li>&lt;del>can&amp;rsquo;t paste images in clipboard into chat applications.&lt;/del> (works now ig)&lt;/li>
+&lt;li>&lt;del>panels appear stacked on top of each other instead of left, right, center.&lt;/del> (fixed)&lt;/li>
+&lt;li>gramps crashes.&lt;/li>
+&lt;li>maim doesn&amp;rsquo;t work. (i need a screenshot tool that returns something other than 0 if it&amp;rsquo;s cancelled, and everything else - flameshot, spectacle returns 0 even if cancelled).&lt;/li>
+&lt;li>grim doesn&amp;rsquo;t work in kwin-wayland, because some wlr unstable protocol lacking. (not wlroots&amp;rsquo; fault, but a hundred implementations exist).
+&lt;ul>
+&lt;li>and who names these tools? i mean, grim, slurp, scrot&amp;hellip; oh my God.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>issues with anydesk and rustdesk.&lt;/li>
+&lt;li>no simplescreenrecorder :(
+&lt;ul>
+&lt;li>well, not a wayland issue, but SSR is just too good&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>silence.</title><link>http://localhost:1313/thoughts/silence./</link><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/silence./</guid><description>&lt;p>i was at my brother&amp;rsquo;s place.&lt;br>
 we were having food, chatting, joking about random things and stuff.&lt;br>
 and then, all of a sudden, we all fell silent.&lt;/p>
 &lt;p>and that&amp;rsquo;s when my brother&amp;rsquo;s filipina wife said,&lt;br>

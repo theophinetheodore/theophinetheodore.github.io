@@ -10,7 +10,7 @@ tag = 'tags'
 [params]
 description = "A Tech Blog"
 
-theme = 'light'
+theme = 'auto'
 colorPalette = 'default'
 hideHeader = false
 
