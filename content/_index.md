@@ -4,4 +4,4 @@ title: "Home"
 
 # hi.
 
-a new abode for my ramblings.
+God bless you all.
