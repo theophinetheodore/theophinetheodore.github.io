@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>theophine savio theodore.</title><link>http://localhost:1313/thoughts/</link><description>Recent content on theophine savio theodore.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml"/><item><title>my current blog "setup".</title><link>http://localhost:1313/thoughts/my-current-blog-setup./</link><pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/my-current-blog-setup./</guid><description>&lt;p>well, i use &lt;a href="https://gohugo.io/">hugo&lt;/a> with the &lt;a href="https://github.com/tomfran/typo">typo&lt;/a> theme.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>theophine savio theodore.</title><link>http://localhost:1313/thoughts/</link><description>Recent content on theophine savio theodore.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2025 19:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/thoughts/index.xml" rel="self" type="application/rss+xml"/><item><title>whisper-cpp.</title><link>http://localhost:1313/thoughts/whisper-cpp./</link><pubDate>Wed, 30 Jul 2025 19:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/whisper-cpp./</guid><description>&lt;p>my brother and i help with my brother&amp;rsquo;s youtube channel &lt;a href="https://youtube.com/@Chocoresh">chocoresh&lt;/a>.&lt;br>
+he does the video stuff, lighting, editing and all.&lt;br>
+for now, i just do the subtitling.&lt;/p>
+&lt;p>i used to use kdenlive&amp;rsquo;s speech recognition feature that uses vosk under the hood.&lt;br>
+now they have also added support for whisper, but it&amp;rsquo;s the python one.&lt;br>
+it needs torch, numba and some stuff like that - i have no idea.&lt;br>
+so anyway, it errored out.&lt;br>
+it said it required python versions between 3.9-3.13.&lt;br>
+but i have 3.13.5.&lt;br>
+i mean, bruh.&lt;/p></description></item><item><title>my current blog "setup".</title><link>http://localhost:1313/thoughts/my-current-blog-setup./</link><pubDate>Wed, 30 Jul 2025 08:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/my-current-blog-setup./</guid><description>&lt;p>well, i use &lt;a href="https://gohugo.io/">hugo&lt;/a> with the &lt;a href="https://github.com/tomfran/typo">typo&lt;/a> theme.&lt;br>
 i initially wanted to make my own theme, so i yanked &lt;a href="https://github.com/ericmurphyxyz/hugo-starter-theme">eric murphy&amp;rsquo;s starter theme&lt;/a>.&lt;br>
 but then i realized i don&amp;rsquo;t want to make a whole new theme,&lt;br>
 figure everything out,&lt;br>
@@ -8,7 +17,15 @@ i just wanna get started with writing.&lt;/p>
 since i&amp;rsquo;m using hugo, i looked up ways to host a hugo website in github pages.&lt;br>
 and all these blogs have stuff about YAMLs and github actions&lt;br>
 and workflows and stuff.&lt;br>
-and i was like, nah, man, i don&amp;rsquo;t wanna do this stuff.&lt;/p></description></item><item><title>fight.</title><link>http://localhost:1313/thoughts/fight./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/fight./</guid><description>&lt;p>everyone tells you:&lt;br>
+and i was like, nah, man, i don&amp;rsquo;t wanna do this stuff.&lt;/p></description></item><item><title>custom domain.</title><link>http://localhost:1313/thoughts/custom-domain./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/custom-domain./</guid><description>&lt;p>&lt;a href="theophinetheodore.xyz">theophinetheodore.xyz&lt;/a>.&lt;/p>
+&lt;p>thank you brother!&lt;br>
+you are the best.&lt;/p>
+&lt;hr>
+&lt;p>having a custom domain is cool, i guess.&lt;br>
+don&amp;rsquo;t have to be tied to the github pages domain,&lt;br>
+and github pages in general.&lt;br>
+even though i use it now.&lt;/p>
+&lt;p>nothing more to add.&lt;/p></description></item><item><title>fight.</title><link>http://localhost:1313/thoughts/fight./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/fight./</guid><description>&lt;p>everyone tells you:&lt;br>
 fight your laziness.&lt;br>
 fight your lethargy.&lt;br>
 fight your despair.&lt;br>

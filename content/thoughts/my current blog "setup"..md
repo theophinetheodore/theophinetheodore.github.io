@@ -1,6 +1,6 @@
 ---
 title: my current blog "setup".
-date: 2025-07-30
+date: 2025-07-30T08:00:00
 ---
 well, i use [hugo](https://gohugo.io/) with the [typo](https://github.com/tomfran/typo) theme.
 i initially wanted to make my own theme, so i yanked [eric murphy's starter theme](https://github.com/ericmurphyxyz/hugo-starter-theme).
