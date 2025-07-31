@@ -42,8 +42,8 @@ name = "thoughts"
 url = "/thoughts"
 
 [[params.menu]]
-name = "gpg"
-url = "/gpg"
+name = "rss"
+url = "/thoughts/index.xml"
 
 [markup]
     [markup.highlight]
