@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on theophine savio theodore.</title><link>http://localhost:1313/</link><description>Recent content in Home on theophine savio theodore.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2025 19:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>whisper-cpp.</title><link>http://localhost:1313/thoughts/whisper-cpp./</link><pubDate>Wed, 30 Jul 2025 19:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/whisper-cpp./</guid><description>&lt;p>my brother and i help with my brother&amp;rsquo;s youtube channel &lt;a href="https://youtube.com/@Chocoresh">chocoresh&lt;/a>.&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on theophine savio theodore.</title><link>https://theophinetheodore.github.io/</link><description>Recent content in Home on theophine savio theodore.</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 30 Jul 2025 19:00:00 +0000</lastBuildDate><atom:link href="https://theophinetheodore.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>whisper-cpp.</title><link>https://theophinetheodore.github.io/thoughts/whisper-cpp./</link><pubDate>Wed, 30 Jul 2025 19:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/whisper-cpp./</guid><description>&lt;p>my brother and i help with my brother&amp;rsquo;s youtube channel &lt;a href="https://youtube.com/@Chocoresh">chocoresh&lt;/a>.&lt;br>
 he does the video stuff, lighting, editing and all.&lt;br>
 for now, i just do the subtitling.&lt;/p>
 &lt;p>i used to use kdenlive&amp;rsquo;s speech recognition feature that uses vosk under the hood.&lt;br>
@@ -24,7 +24,7 @@ and i don&amp;rsquo;t blame whisper.cpp.&lt;br>
 it&amp;rsquo;s that the model gets confused when two people speak at the same time,&lt;br>
 and accents can be hard to interpret, even for humans, so.&lt;br>
 but it did a good job.&lt;/p>
-&lt;p>thank you, whisper-cpp devs.&lt;/p></description></item><item><title>my current blog "setup".</title><link>http://localhost:1313/thoughts/my-current-blog-setup./</link><pubDate>Wed, 30 Jul 2025 08:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/my-current-blog-setup./</guid><description>&lt;p>well, i use &lt;a href="https://gohugo.io/">hugo&lt;/a> with the &lt;a href="https://github.com/tomfran/typo">typo&lt;/a> theme.&lt;br>
+&lt;p>thank you, whisper-cpp devs.&lt;/p></description></item><item><title>my current blog "setup".</title><link>https://theophinetheodore.github.io/thoughts/my-current-blog-setup./</link><pubDate>Wed, 30 Jul 2025 08:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/my-current-blog-setup./</guid><description>&lt;p>well, i use &lt;a href="https://gohugo.io/">hugo&lt;/a> with the &lt;a href="https://github.com/tomfran/typo">typo&lt;/a> theme.&lt;br>
 i initially wanted to make my own theme, so i yanked &lt;a href="https://github.com/ericmurphyxyz/hugo-starter-theme">eric murphy&amp;rsquo;s starter theme&lt;/a>.&lt;br>
 but then i realized i don&amp;rsquo;t want to make a whole new theme,&lt;br>
 figure everything out,&lt;br>
@@ -58,7 +58,7 @@ none of em click.&lt;/p>
 &lt;p>so i&amp;rsquo;m using obsidian.&lt;br>
 but gotta say, obsidian is pretty comfy.&lt;br>
 using it with &lt;a href="https://gitlab-org.gitlab.io/frontend/fonts/">gitlab sans&lt;/a> typeface and &lt;a href="https://github.com/ZeChArtiahSaher/obsidian-mono-black">mono-black&lt;/a> theme.&lt;br>
-i use this combo in every vault of mine.&lt;/p></description></item><item><title>custom domain.</title><link>http://localhost:1313/thoughts/custom-domain./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/custom-domain./</guid><description>&lt;p>&lt;a href="theophinetheodore.xyz">theophinetheodore.xyz&lt;/a>.&lt;/p>
+i use this combo in every vault of mine.&lt;/p></description></item><item><title>custom domain.</title><link>https://theophinetheodore.github.io/thoughts/custom-domain./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/custom-domain./</guid><description>&lt;p>&lt;a href="theophinetheodore.xyz">theophinetheodore.xyz&lt;/a>.&lt;/p>
 &lt;p>thank you brother!&lt;br>
 you are the best.&lt;/p>
 &lt;hr>
@@ -66,7 +66,7 @@ you are the best.&lt;/p>
 don&amp;rsquo;t have to be tied to the github pages domain,&lt;br>
 and github pages in general.&lt;br>
 even though i use it now.&lt;/p>
-&lt;p>nothing more to add.&lt;/p></description></item><item><title>fight.</title><link>http://localhost:1313/thoughts/fight./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/fight./</guid><description>&lt;p>everyone tells you:&lt;br>
+&lt;p>nothing more to add.&lt;/p></description></item><item><title>fight.</title><link>https://theophinetheodore.github.io/thoughts/fight./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/fight./</guid><description>&lt;p>everyone tells you:&lt;br>
 fight your laziness.&lt;br>
 fight your lethargy.&lt;br>
 fight your despair.&lt;br>
@@ -106,7 +106,7 @@ listening to everything from the manosphere, (no hatred towards them though)&lt;
 and thinking therapy is a sad excuse. (even though people have used their trauma as an excuse and not use that knowledge for healing themselves but demand good treatment and no responsibilities from others, and thus make a mockery out of it.)&lt;/p>
 &lt;p>but i&amp;rsquo;m no saint, i&amp;rsquo;m no preacher.&lt;br>
 i have my faults.&lt;br>
-i am working through it, yet i keep my hope in the Lord.&lt;/p></description></item><item><title>what my mentor told me about relationships... and then i derail.</title><link>http://localhost:1313/thoughts/what-my-mentor-told-me-about-relationships./</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/what-my-mentor-told-me-about-relationships./</guid><description>&lt;p>a relationship truly begins when both the man and the woman are completely unburdened and healed and &lt;em>then&lt;/em> choose each other with all their heart.&lt;/p>
+i am working through it, yet i keep my hope in the Lord.&lt;/p></description></item><item><title>what my mentor told me about relationships... and then i derail.</title><link>https://theophinetheodore.github.io/thoughts/what-my-mentor-told-me-about-relationships./</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/what-my-mentor-told-me-about-relationships./</guid><description>&lt;p>a relationship truly begins when both the man and the woman are completely unburdened and healed and &lt;em>then&lt;/em> choose each other with all their heart.&lt;/p>
 &lt;p>what we like, what we don&amp;rsquo;t, what we&amp;rsquo;re scared of - all can be affected by what our parts in us think.&lt;/p>
 &lt;p>perhaps what we find beautiful and attractive right now, in our burdened states, is not what we&amp;rsquo;d really like if we were guided by the Self.&lt;/p>
 &lt;p>a relationship has its struggles, and issues that arise from our inner burdens and our hurt parts. but merely telling each other we&amp;rsquo;re worth it and the like will not solve the problem. or merely fighting over it or blaming each other will not solve the problem.&lt;/p>
@@ -133,7 +133,7 @@ i could tell myself i would have done things differently&lt;br>
 if i were given a second chance,&lt;br>
 but, i don&amp;rsquo;t know.&lt;br>
 but i do have hope.&lt;br>
-and i do feel His mercy, even though at times i seem to forget about it.&lt;/p></description></item><item><title>my wayland situation.</title><link>http://localhost:1313/thoughts/wayland/</link><pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/wayland/</guid><description>&lt;h2 class="heading" id="pros-of-wayland-for-me">
+and i do feel His mercy, even though at times i seem to forget about it.&lt;/p></description></item><item><title>my wayland situation.</title><link>https://theophinetheodore.github.io/thoughts/wayland/</link><pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/wayland/</guid><description>&lt;h2 class="heading" id="pros-of-wayland-for-me">
  pros of wayland (for me)
  &lt;a class="anchor" href="#pros-of-wayland-for-me">#&lt;/a>
 &lt;/h2>
@@ -172,14 +172,14 @@ and i do feel His mercy, even though at times i seem to forget about it.&lt;/p><
 &lt;li>well, not a wayland issue, but SSR is just too good&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>silence.</title><link>http://localhost:1313/thoughts/silence./</link><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/silence./</guid><description>&lt;p>i was at my brother&amp;rsquo;s place.&lt;br>
+&lt;/ul></description></item><item><title>silence.</title><link>https://theophinetheodore.github.io/thoughts/silence./</link><pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/silence./</guid><description>&lt;p>i was at my brother&amp;rsquo;s place.&lt;br>
 we were having food, chatting, joking about random things and stuff.&lt;br>
 and then, all of a sudden, we all fell silent.&lt;/p>
 &lt;p>and that&amp;rsquo;s when my brother&amp;rsquo;s filipina wife said,&lt;br>
 in the philippines, when a group of people&lt;br>
 who were talking suddenly fall silent,&lt;br>
 they say it&amp;rsquo;s because an angel just passed by.&lt;/p>
-&lt;p>i think it&amp;rsquo;s interesting.&lt;/p></description></item><item><title>my 2-min hyprland adventure.</title><link>http://localhost:1313/thoughts/my-2-min-hyprland-adventure./</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/my-2-min-hyprland-adventure./</guid><description>&lt;p>well, i have used hyprland and sway in the past for a few weeks, i guess.&lt;/p>
+&lt;p>i think it&amp;rsquo;s interesting.&lt;/p></description></item><item><title>my 2-min hyprland adventure.</title><link>https://theophinetheodore.github.io/thoughts/my-2-min-hyprland-adventure./</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/my-2-min-hyprland-adventure./</guid><description>&lt;p>well, i have used hyprland and sway in the past for a few weeks, i guess.&lt;/p>
 &lt;p>but well, with DHH&amp;rsquo;s &lt;a href="https://omarchy.org/">omarchy&lt;/a> and pewdiepie&amp;rsquo;s hyprland setup,&lt;br>
 among with many other rices,&lt;br>
 let&amp;rsquo;s say it got me intrigued.&lt;/p>
@@ -237,7 +237,7 @@ which is like 1.6 gigs at idle.&lt;br>
 and KDE plasma does so much more.&lt;br>
 so it&amp;rsquo;s not worth an effort anyway.&lt;/p>
 &lt;p>one could say KDE plasma made me lazy?,&lt;br>
-but i&amp;rsquo;d say KDE is as comfy as home.&lt;/p></description></item><item><title>TIL hardwrap.</title><link>http://localhost:1313/thoughts/til-hardwrap/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/til-hardwrap/</guid><description>&lt;p>i have this writing style of&lt;br>
+but i&amp;rsquo;d say KDE is as comfy as home.&lt;/p></description></item><item><title>TIL hardwrap.</title><link>https://theophinetheodore.github.io/thoughts/til-hardwrap/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/til-hardwrap/</guid><description>&lt;p>i have this writing style of&lt;br>
 breaking stuff into lines.&lt;br>
 i don&amp;rsquo;t do paragraphs.&lt;br>
 i like it this way.&lt;/p>
@@ -255,7 +255,7 @@ or a &lt;code>&amp;lt;br&amp;gt;&lt;/code>.&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> [markup.goldmark.renderer]
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> hardWraps = &lt;span style="font-weight:bold;text-decoration:underline">true&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>and no need of hacks anymore.&lt;br>
-i could just write in obsidian and hit &lt;code>:w&lt;/code>.&lt;/p></description></item><item><title>"batman begins" - thoughts.</title><link>http://localhost:1313/thoughts/batman-begins---thoughts./</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/batman-begins---thoughts./</guid><description>&lt;p>revisited &amp;ldquo;batman begins&amp;rdquo; after a years.&lt;br>
+i could just write in obsidian and hit &lt;code>:w&lt;/code>.&lt;/p></description></item><item><title>"batman begins" - thoughts.</title><link>https://theophinetheodore.github.io/thoughts/batman-begins---thoughts./</link><pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/batman-begins---thoughts./</guid><description>&lt;p>revisited &amp;ldquo;batman begins&amp;rdquo; after a years.&lt;br>
 was a kid when i watched it.&lt;/p>
 &lt;p>even since the death of his parents,&lt;br>
 young bruce puts the blame on himself.&lt;br>
@@ -308,7 +308,7 @@ the way?&lt;/p>
 &lt;p>i&amp;rsquo;m no expert.&lt;br>
 i too have problems following my own advice.&lt;br>
 but i have renounced the old ways of being hard on myself.&lt;br>
-compassion must start from ourselves.&lt;/p></description></item><item><title>"gender politics."</title><link>http://localhost:1313/thoughts/gender-politics/</link><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/gender-politics/</guid><description>&lt;p>NOTE:&lt;br>
+compassion must start from ourselves.&lt;/p></description></item><item><title>"gender politics."</title><link>https://theophinetheodore.github.io/thoughts/gender-politics/</link><pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/gender-politics/</guid><description>&lt;p>NOTE:&lt;br>
 my intention is not to blindly criticize anyone.&lt;br>
 we are all humans, the children of God,&lt;br>
 and we are all made in the image and likeness of God.&lt;br>
@@ -368,7 +368,7 @@ from the unity of a man and woman comes something beautiful.&lt;/p>
 to dictate our life and relationships.&lt;br>
 let us heal, and rise above it.&lt;br>
 let us all be friends.&lt;br>
-let&amp;rsquo;s work together.&lt;/p></description></item><item><title>the psalm of gratitude.</title><link>http://localhost:1313/thoughts/the-psalm-of-gratitude/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><guid>http://localhost:1313/thoughts/the-psalm-of-gratitude/</guid><description>&lt;p>everyday feels like a gift from the Lord.&lt;br>
+let&amp;rsquo;s work together.&lt;/p></description></item><item><title>the psalm of gratitude.</title><link>https://theophinetheodore.github.io/thoughts/the-psalm-of-gratitude/</link><pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.github.io/thoughts/the-psalm-of-gratitude/</guid><description>&lt;p>everyday feels like a gift from the Lord.&lt;br>
 my only qualm is, i do not make much use of it.&lt;br>
 yet, every single day feels different.&lt;/p>
 &lt;p>i thought they were joking when they said that&lt;br>
