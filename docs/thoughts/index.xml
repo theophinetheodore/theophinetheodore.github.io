@@ -68,7 +68,10 @@ none of em click.&lt;/p>
 &lt;p>so i&amp;rsquo;m using obsidian.&lt;br>
 but gotta say, obsidian is pretty comfy.&lt;br>
 using it with &lt;a href="https://gitlab-org.gitlab.io/frontend/fonts/">gitlab sans&lt;/a> typeface and &lt;a href="https://github.com/ZeChArtiahSaher/obsidian-mono-black">mono-black&lt;/a> theme.&lt;br>
-i use this combo in every vault of mine.&lt;/p></description></item><item><title>custom domain.</title><link>https://theophinetheodore.xyz/thoughts/custom-domain./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.xyz/thoughts/custom-domain./</guid><description>&lt;p>&lt;a href="theophinetheodore.xyz">theophinetheodore.xyz&lt;/a>.&lt;/p>
+i use this combo in every vault of mine.&lt;/p>
+&lt;hr>
+&lt;p>as for the custom domain, i had this issue where i&amp;rsquo;d set the custom domain in github repo settings and it&amp;rsquo;d be working, until i delete the &lt;code>docs/&lt;/code> directory and generate a new one. but then when i&amp;rsquo;m about to push, i have some git conflict, and i&amp;rsquo;ll run a git pull and push. but the custom domain would stop working.&lt;/p>
+&lt;p>turns out, i have to have a file named CNAME with the custom domain inside &lt;code>docs/&lt;/code>. so i dropped a CNAME into &lt;code>static/&lt;/code> so when i run &lt;code>hugo build&lt;/code>, it&amp;rsquo;d just drop the file into &lt;code>docs/&lt;/code>.&lt;/p></description></item><item><title>custom domain.</title><link>https://theophinetheodore.xyz/thoughts/custom-domain./</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://theophinetheodore.xyz/thoughts/custom-domain./</guid><description>&lt;p>&lt;a href="theophinetheodore.xyz">theophinetheodore.xyz&lt;/a>.&lt;/p>
 &lt;p>thank you brother!&lt;br>
 you are the best.&lt;/p>
 &lt;hr>

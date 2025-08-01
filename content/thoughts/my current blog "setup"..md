@@ -59,3 +59,10 @@ so i'm using obsidian.
 but gotta say, obsidian is pretty comfy.
 using it with [gitlab sans](https://gitlab-org.gitlab.io/frontend/fonts/) typeface and [mono-black](https://github.com/ZeChArtiahSaher/obsidian-mono-black) theme.
 i use this combo in every vault of mine.
+
+---
+
+as for the custom domain, i had this issue where i'd set the custom domain in github repo settings and it'd be working, until i delete the `docs/` directory and generate a new one. but then when i'm about to push, i have some git conflict, and i'll run a git pull and push. but the custom domain would stop working.
+
+turns out, i have to have a file named CNAME with the custom domain inside `docs/`. so i dropped a CNAME into `static/` so when i run `hugo build`, it'd just drop the file into `docs/`.
+
