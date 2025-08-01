@@ -23,10 +23,21 @@ so now i just do this:
 # zoxide shortcut to go the repository, or just cd
 z blog
 
-# hugo serves the website and builds it in docs/
-# Ctrl-c when over
-hugo serve --minify -d docs --buildFuture
+# hugo command to serve the website locally
+# for editing and previewing
+hugo serve
+
+# hugo command to build
+# you could lose the '-d docs' part by
+# setting publishDir to 'docs' in hugo.toml
+hugo build --minify -d docs --buildFuture -e production
 ```
+
+a mistake i did is,
+i pushed the `hugo serve` output directly into production,
+and the rss.xml had http://localhost:1313 as the baseURL.
+therefore, learnt to use hugo build separately.
+(i used to do it before, but i just forgot about it.)
 
 and then just do the git stuff: adding, committing, pushing.
 no need of workflows and stuff.
